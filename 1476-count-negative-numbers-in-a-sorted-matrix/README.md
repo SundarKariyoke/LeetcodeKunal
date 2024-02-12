@@ -1,5 +1,5 @@
 <h2><a href="https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix">Count Negative Numbers in a Sorted Matrix</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a <code>m x n</code> matrix <code>grid</code> which is sorted in non-increasing order both row-wise and column-wise, return <em>the number of <strong>negative</strong> numbers in</em> <code>grid</code>.</p>
-
+<p>Facebook,Amazon</p>
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
